@@ -5,6 +5,13 @@
 <p align="left">My name is Shrivatsa Hegde and I'm a Bioinformatician, from Sirsi.</p>
 
 ###
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 
 <h2 align="left">About me</h2>
 
@@ -29,15 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
-###
-
-<p align="center">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ShrivatsaHegde/count.svg?"  />
-</div>
 
 ###
 
@@ -59,10 +57,4 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
