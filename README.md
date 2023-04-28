@@ -14,9 +14,9 @@ While I don't currently have any pets, I have always been interested in animals 
 
 As for my favorite foods and restaurants, I am not particularly picky. I enjoy trying new foods and exploring different culinary traditions.
 
-Although I am not an avid traveler, I do enjoy exploring new places and meeting new people. I have had the opportunity to travel to a few different places in my life, and I always find it enriching to experience different cultures and ways of life.
+Although I am not an avid traveler, I do enjoy exploring new places and meeting new people. I have had the opportunity to travel to a few different places in my life, and I always find it enriching to experience different ways of life.
 
-In terms of my future aspirations and goals, I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux, Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
+In terms of my future aspirations and goals, I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux (Bash), Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
 
 Overall, I am a curious and driven individual who is passionate about using technology to better understand the natural world. I believe that my diverse educational background and experience in data analysis make me well-suited for a career in bioinformatics, and I am excited to see where this field takes me in the future.</p>
 
