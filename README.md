@@ -3,6 +3,11 @@
 ###
 
 <p align="left">My name is Shrivatsa Hegde and I am currently pursuing my master's degree in Bioinformatics at JSS Academy of Higher Education and Research in Mysuru. I have always been interested in the intersection of biology and computer science, which led me to pursue this field of study.
+##
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+##
 
 In my free time, I enjoy listening to music and watching anime. I find it fascinating to explore and understand new things, especially when it comes to the latest developments in the field of bioinformatics. This is one of the reasons why I chose to pursue this field of study.
 
@@ -23,9 +28,6 @@ Overall, I am a curious and driven individual who is passionate about using tech
 ###
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###
 
