@@ -4,19 +4,7 @@
 
 <p align="left">My name is Shrivatsa Hegde and I am currently pursuing my master's degree in Bioinformatics at JSS Academy of Higher Education and Research in Mysuru. I have always been interested in the intersection of biology and computer science, which led me to pursue this field of study.
 
-In my free time, I enjoy listening to music and watching anime. I find it fascinating to explore and understand new things, especially when it comes to the latest developments in the field of bioinformatics. This is one of the reasons why I chose to pursue this field of study.
-
-Before pursuing my master's degree, I completed my Bachelor's degree in Chemistry, Botany, and Zoology. This background has helped me to develop a strong foundation in the life sciences, which is essential in understanding the biological data I work with in bioinformatics.
-
-When it comes to books and movies, my favorite movie is Interstellar, and my favorite book is Atomic Habits. I find the themes of exploration and self-improvement in both of these works to be very inspiring.
-
-While I don't currently have any pets, I have always been interested in animals and nature. In fact, my educational background in the life sciences was partially motivated by a fascination with the natural world.
-
-As for my favorite foods and restaurants, I am not particularly picky. I enjoy trying new foods and exploring different culinary traditions.
-
-Although I am not an avid traveler, I do enjoy exploring new places and meeting new people. I have had the opportunity to travel to a few different places in my life, and I always find it enriching to experience different ways of life.
-
-In terms of my future aspirations and goals, I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux (Bash), Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
+I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux (Bash), Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
 
 Overall, I am a curious and driven individual who is passionate about using technology to better understand the natural world. I believe that my diverse educational background and experience in data analysis make me well-suited for a career in bioinformatics, and I am excited to see where this field takes me in the future.</p>
 
