@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shrivatsa Hegde and I am currently pursuing my master's degree in Bioinformatics at JSS Academy of Higher Education and Research in Mysuru. I have always been interested in the intersection of biology and computer science, which led me to pursue this field of study.
+<p align="left">My name is Shrivatsa Hegde and I recently finished my master's degree in Bioinformatics at JSS Academy of Higher Education and Research in Mysuru. I have always been interested in the intersection of biology and computer science, which led me to pursue this field of study.
 
 I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux (Bash), Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
 
