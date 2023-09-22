@@ -17,7 +17,7 @@ Overall, I am a curious and driven individual who is passionate about using tech
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Creating bugs for the last 2 years.......<br>📚 I'm currently learning Bioinformatics</p>
+<p align="left">✨ Creating bugs for the last 2 years.......<br>📚 I'm recently finished my Post graduation in Bioinformatics</p>
 
 ###
 
