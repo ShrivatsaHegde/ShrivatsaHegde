@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Shrivatsa Hegde and I recently finished my master's degree in Bioinformatics at JSS Academy of Higher Education and Research in Mysuru. I have always been interested in the intersection of biology and computer science, which led me to pursue this field of study.
+<p align="left">I am a passionate and driven Bioinformatician with a Master’s degree in Bioinformatics from JSS Academy of Higher Education and Research, Mysuru, dedicated to leveraging the intersection of biology and computer science to drive meaningful insights. Proficient in programming languages such as Linux (Bash), Python, R, and C, with hands-on experience using libraries like Pandas and NumPy for advanced data analysis.
 
-I am determined to become a skilled bioinformatician and data analyst. I believe that my exposure to programming languages such as Linux (Bash), Python, R, C, and libraries like Pandas and NumPy, combined with my experience working with different types of data from fields like genomics and proteomics, will allow me to excel in this field. I am also interested in the applications of machine learning and artificial intelligence in bioinformatics, and I hope to continue exploring this area in my future studies and career.
+Experienced in analyzing diverse datasets from genomics and proteomics, with a keen interest in integrating machine learning (ML) and artificial intelligence (AI) into bioinformatics applications. Skilled in data-driven problem-solving, pipeline development, and computational biology, with a strong foundation in both theoretical and practical aspects of the field.
 
-Overall, I am a curious and driven individual who is passionate about using technology to better understand the natural world. I believe that my diverse educational background and experience in data analysis make me well-suited for a career in bioinformatics, and I am excited to see where this field takes me in the future.</p>
+Committed to exploring innovative technologies to better understand the natural world and contributing to advancements in bioinformatics and data analysis. Recognized for curiosity, adaptability, and a strong analytical mindset to tackle complex biological questions through computational approaches.</p>
 
 ###
 ###
@@ -17,7 +17,7 @@ Overall, I am a curious and driven individual who is passionate about using tech
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Creating bugs for the last 2 years.......<br>📚 I'm recently finished my Post graduation in Bioinformatics</p>
+<p align="left">✨ Creating bugs for the last 3 years.......<br>📚 I hold a postgraduate degree in Bioinformatics.</p>
 
 ###
 
