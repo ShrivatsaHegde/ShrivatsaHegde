@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
+<h2 align="left">About me</h2>
 <p align="left">A passionate and driven Bioinformatician with a Master’s degree in Bioinformatics. Proficient in Linux (Bash), Python, R, and C, with hands-on experience using libraries like Pandas and NumPy for data analysis. Leveraging innovative technologies and computational analysis to decode biological complexities.</p>
 
 ###
@@ -10,10 +10,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
+
 
 ###
-<p align="left">✨<br>📚 Bioinformatician</p>
+<p align="left">📚 Bioinformatician</p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 
 
-
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shrivatsa-hegde-3b410824a" target="_blank">
