@@ -13,7 +13,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨<br>##📚 Bioinformatician.##</p>
+<p align="left">✨<br>📚 Bioinformatician</p>
 
 ###
 
@@ -35,15 +35,12 @@
 
 ###
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivatsaHegde&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShrivatsaHegde&theme=merko&hide_border=false)<br/>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/shrivatsa-hegde-3b410824a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
