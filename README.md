@@ -13,7 +13,7 @@
 
 
 ###
-<p align="left">[![Website](https://img.shields.io/website?url=https%3A%2F%2Fshri.shinyapps.io%2FShrivatsaHegde%2F)](https://shri.shinyapps.io/ShrivatsaHegde/)</p>
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fshri.shinyapps.io%2FShrivatsaHegde%2F)](https://shri.shinyapps.io/ShrivatsaHegde/)
 
 ###
 
