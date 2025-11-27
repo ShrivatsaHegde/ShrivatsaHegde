@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate and driven Bioinformatician with a Master’s degree in Bioinformatics from JSS Academy of Higher Education and Research, Mysuru, dedicated to leveraging the intersection of biology and computer science to drive meaningful insights. Proficient in programming languages such as Linux (Bash), Python, R, and C, with hands-on experience using libraries like Pandas and NumPy for advanced data analysis.
-
-Experienced in analyzing diverse datasets from genomics and proteomics, with a keen interest in integrating machine learning (ML) and artificial intelligence (AI) into bioinformatics applications. Skilled in data-driven problem-solving, pipeline development, and computational biology, with a strong foundation in both theoretical and practical aspects of the field.
-
-Committed to exploring innovative technologies to better understand the natural world and contributing to advancements in bioinformatics and data analysis. Recognized for curiosity, adaptability, and a strong analytical mindset to tackle complex biological questions through computational approaches.</p>
+<p align="left">A passionate and driven Bioinformatician with a Master’s degree in Bioinformatics. Proficient in Linux (Bash), Python, R, and C, with hands-on experience using libraries like Pandas and NumPy for data analysis. Leveraging innovative technologies and computational analysis to decode biological complexities.</p>
 
 ###
 ###
@@ -17,7 +13,7 @@ Committed to exploring innovative technologies to better understand the natural 
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Creating bugs for the last 3 years.......<br>📚 I hold a postgraduate degree in Bioinformatics.</p>
+<p align="left">✨<br>##📚 Bioinformatician.##</p>
 
 ###
 
@@ -39,6 +35,15 @@ Committed to exploring innovative technologies to better understand the natural 
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivatsaHegde&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShrivatsaHegde&theme=merko&hide_border=false)<br/>
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/shrivatsa-hegde-3b410824a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
