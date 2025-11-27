@@ -36,9 +36,9 @@
 
 <h2 align="left">📊 On GitHub:</h2>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivatsaHegde)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShrivatsaHegde)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivatsaHegde&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ShrivatsaHegde&theme=radical)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShrivatsaHegde&theme=radical)<br/>
 
 
 
